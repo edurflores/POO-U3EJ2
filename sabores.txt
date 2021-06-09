@@ -1,0 +1,17 @@
+numero(comienza en 1),nombre,descripcion
+100,Vainilla,Vainilla sabor galleta
+101,Chocolate,Chocolate estilo Bariloche
+102,Granizado,Crema con chispas de chocolate
+103,Chocolate almendrado,Crema de chocolate con almendras
+104,Naranja,Crema sabor naranja con pulpa
+105,Cerezas al marrasquino,Sabor de cerezas con pulpa
+106,Chocolate amargo,Crema de chocolate de tipo amargo
+107,Crema americana,Sabor crema estilo estadounidense
+108,Lima limon,Crema sabor lima limon con pulpa
+109,Frutilla,Crema sabor frutilla con pulpa
+110,Kiwi,Crema sabor kiwi con pulpa
+111,Cafe,Crema sabor cafe con leche
+112,Crema Oreo,Crema sabor vainilla con trozos de galletas Oreo
+113,Menta,Crema sabor mentolado fresco
+114,Dulce de leche,Crema a base de dulce de leche
+115,Sandia,Crema con pulpa de sandia
